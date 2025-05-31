@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm izwynx!
 
 🎓 I’m currently pursuing a **Diploma in Information Technology (IT)**.  
 💡 I'm passionate about **web development**, **problem-solving**, and **learning new technologies**.  
